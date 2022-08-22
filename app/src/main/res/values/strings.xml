@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bullseye</string>
+    <string name="instructions">Put the bullseye as close as you can</string>
+    <string name="score">69</string>
+    <string name="min">0</string>
+    <string name="max">100</string>
+    <string name="hitMe">Hit Me!</string>
+    <string name="resultDialogTitle">Alert Title</string>
+</resources>
